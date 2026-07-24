@@ -20,7 +20,7 @@
 name: Emmanuel Chuma
 based_in: Johannesburg, South Africa
 studying: Software Development (NQF 5)
-stack_focus: React · Spring Boot · PostgreSQL
+stack_focus(Reeltrack): React · Spring Boot · PostgreSQL
 ```
 
 - 🎯 Currently sharpening **Java & Python fundamentals** — hand-tracing, data structures, debugging discipline
