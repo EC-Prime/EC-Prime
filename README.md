@@ -77,9 +77,9 @@ Demoing **Soon**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EC-Prime&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&langs_count=8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EC-Prime&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" />
 
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EC-Prime&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&langs_count=8" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EC-Prime&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" />
 </div>
 
 <!--
