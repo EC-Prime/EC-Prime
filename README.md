@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EC-Prime&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/your-linkedin-handle)
 [![YouTube](https://img.shields.io/badge/Footy%20Brilliance-000000?style=for-the-badge&logo=youtube&logoColor=D4AF37)](https://youtube.com/@FootyBrilliance)
 
@@ -19,20 +18,16 @@
 ## ⚜️ About Me
 
 ```yaml
-name: EC
+name: Emmanuel Chuma
 based_in: Johannesburg, South Africa
-studying: Software Development (NQF 5) — Java · DBMS · System Analysis & Design · AI
-also_in: FNB App Academy (Python)
-building_toward: Junior Full-Stack Developer @ BBD / DVT / Entelect
+studying: Software Development (NQF 5)
 stack_focus: React · Spring Boot · PostgreSQL
-off_the_clock: Weightlifting 5x/week 🏋️ · Football content creator ⚽ · Faith-driven
 ```
 
 - 🎯 Currently sharpening **Java & Python fundamentals** — hand-tracing, data structures, debugging discipline
-- 🏗️ Deep in a 6-week structured build of **Reeltrack**, my flagship full-stack project
+- 🏗️ Deep in a build of **Reeltrack**, my flagship full-stack project
 - 🎥 Growing **Footy Brilliance** — a football documentary channel on YouTube
 - 🌱 Learning in public, shipping in private — code first, polish after
-- 💬 Ask me about ERDs, normalization, or why goalkeepers from small nations dominate
 
 <br/>
 
@@ -46,7 +41,7 @@ off_the_clock: Weightlifting 5x/week 🏋️ · Football content creator ⚽ · 
 `React` · `Spring Boot` · `PostgreSQL` · `TMDB API`
 
 Track what you watch, plan what's next — built end-to-end from schema design to deployed UI.
-Demoing at **AWS Summit Johannesburg** · **August 19**
+Demoing **Soon**
 
 </div>
 
@@ -95,9 +90,6 @@ Example (github-contribution-grid-snake or github-readme-activity-graph) can slo
 <br/>
 
 <div align="center">
-
-### "Aggressive with inputs. Patient with outputs. Never miss twice."
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
