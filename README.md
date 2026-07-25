@@ -54,7 +54,7 @@ Demoing **Soon**
 **Languages**
 
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-000000?style=for-the-badge&logo=java&logoColor=D4AF37)
-![Python](https://custom-icon-badges.demolab.com/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37)
+<!--![Python](https://custom-icon-badges.demolab.com/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37)-->
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
 ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37)
 ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37)
