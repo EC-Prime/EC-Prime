@@ -61,9 +61,9 @@ Demoing **Soon**
 
 **Frameworks & Tools**
 
-![React](https://custom-icon-badges.demolab.com/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
+<!--[React](https://custom-icon-badges.demolab.com/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)-->
 ![Spring Boot](https://custom-icon-badges.demolab.com/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=D4AF37)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+<!--[PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)-->
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-000000?style=for-the-badge&logo=vscode&logoColor=D4AF37&logoSource=octicons)
 ![Obsidian](https://custom-icon-badges.demolab.com/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=D4AF37)
