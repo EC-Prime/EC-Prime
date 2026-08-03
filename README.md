@@ -7,7 +7,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/emmanuel-chuma-230287296/)
 [![YouTube](https://img.shields.io/badge/Footy%20Brilliance-000000?style=for-the-badge&logo=youtube&logoColor=D4AF37)](https://youtube.com/@FootyBrilliance)
 
 </div>
