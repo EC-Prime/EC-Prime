@@ -67,7 +67,7 @@ Demoing **Soon**
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
 ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37)
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
 
 **Frameworks & Tools**
 
@@ -77,8 +77,8 @@ Demoing **Soon**
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-000000?style=for-the-badge&logo=vscode&logoColor=D4AF37&logoSource=octicons)
 ![Obsidian](https://custom-icon-badges.demolab.com/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=D4AF37)
-![Apache NetBeans](https://custom-icon-badges.demolab.com/badge/Apache_NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6)
-![MySQL Workbench](https://custom-icon-badges.demolab.com/badge/MySQL_Workbench-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Apache NetBeans](https://custom-icon-badges.demolab.com/badge/Apache_NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=D4AF37)
+![MySQL Workbench](https://custom-icon-badges.demolab.com/badge/MySQL_Workbench-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
 
 </div>
 
