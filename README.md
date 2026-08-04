@@ -35,7 +35,7 @@ stack_focus(Reeltrack): React · Spring Boot · PostgreSQL
 | Program | Institution | Focus |
 |---|---|---|
 | [Responsive Web Design](https://freecodecamp.org/certification/emmanuelchuma/responsive-web-design-v9) | freeCodeCamp | HTML · CSS · Responsive Layout (300 hrs) |
-| System Development NQF 5 | Gauteng City College | Java · AI Fundamentals · System Analysis  & Design · MySQL |
+| System Development NQF 5 | Gauteng City College | Java · AI Fundamentals · System Analysis  & Design · MySQL · JS |
 
 <br/>
 
