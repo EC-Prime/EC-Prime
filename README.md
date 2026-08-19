@@ -23,7 +23,7 @@ studying: Software Development (NQF 5)
 stack_focus(Reeltrack): React · Spring Boot · PostgreSQL
 ```
 
-- 🎯 Currently sharpening **Java & Python**
+- 🎯 Currently sharpening **Java & Frontend Skills**
 - 🏗️ Deep in a build of **Reeltrack**, my flagship full-stack project
 - 🎥 Growing **Footy Brilliance** — a football documentary channel on YouTube
 - 🌱 Learning in public, shipping in private — code first, polish after
