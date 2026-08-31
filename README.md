@@ -38,7 +38,7 @@ stack_focus(Reeltrack): React · Spring Boot · PostgreSQL
 | System Development NQF 5 | Gauteng City College | Java · AI Fundamentals · System Analysis  & Design · MySQL · JS |
 
 <br/>
-
+<!--
 ## 🚀 Currently Building
 
 <div align="center">
@@ -52,7 +52,7 @@ Track what you watch, plan what's next — built end-to-end from schema design t
 Demoing **Soon**
 
 </div>
-
+-->
 <br/>
 
 ## 🛠️ Tech Stack
