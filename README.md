@@ -20,12 +20,12 @@
 name: Emmanuel Chuma
 based_in: Johannesburg, South Africa
 studying: Software Development (NQF 5)
-stack_focus(Reeltrack): React · Spring Boot · PostgreSQL
+
 ```
 
 - 🎯 Currently sharpening **Java & Frontend Skills**
-- 🏗️ Deep in a build of **Reeltrack**, my flagship full-stack project
-- 🎥 Growing **Footy Brilliance** — a football documentary channel on YouTube
+<!--- 🏗️ Deep in a build of **Reeltrack**, my flagship full-stack project
+- 🎥 Growing **Footy Brilliance** — a football documentary channel on YouTube-->
 - 🌱 Learning in public, shipping in private — code first, polish after
 
 <br/>
