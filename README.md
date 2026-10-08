@@ -15,9 +15,9 @@
 
 ---
 
-## ⚜️ About Me
+## About Me
 
-I'm a developer who loves building **end-to-end systems**, especially to solve problems I've run into myself. I'm always learning new skills and focusing on the **Java ecosystem** as I work toward becoming a fully fledged full-stack developer. Away from code, I'm a football obsessive and a gamer—occasionally, if you ask my backlog.
+I'm a developer who loves building **end-to-end systems**, especially to solve problems I've run into myself. I'm always learning new skills and focusing on the **Java ecosystem** as I work toward becoming a fully fledged full-stack developer. Away from code, I'm a football obsessive and a gamer—occasionally... depending on who you ask.
 
 ## 🎓 Coursework & Certifications
 
